@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MDJAmin.github.io/Nike-landing-page",
+  "homepage": "https://MDJAmin.github.io/nike-landing-page-react-tailwind-vite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

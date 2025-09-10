@@ -1,11 +1,4 @@
-import {
-  facebook,
-  instagram,
-  shieldTick,
-  support,
-  truckFast,
-  twitter,
-} from "../assets/icons";
+import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
 import {
   bigShoe1,
   bigShoe2,
@@ -85,8 +78,7 @@ export const services = [
   {
     imgURL: shieldTick,
     label: "Secure Payment",
-    subtext:
-      "Experience worry-free transactions with our secure payment options.",
+    subtext: "Experience worry-free transactions with our secure payment options.",
   },
   {
     imgURL: support,

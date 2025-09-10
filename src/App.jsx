@@ -1,5 +1,5 @@
 import { Nav } from "./components";
-import 'atropos/css'
+import "atropos/css";
 import {
   CustomerReviews,
   Footer,

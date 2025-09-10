@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import { ReviewCard } from "../components";
 import { reviews } from "../constants";
 export default function CustomerReviews() {
@@ -10,8 +10,8 @@ export default function CustomerReviews() {
         Say?
       </h3>
       <p className='m-auto mt-4 max-w-lg  text-center info-text'>
-        Hear genuine stories from our satisfied customers about their
-        exceptional experiences with us.
+        Hear genuine stories from our satisfied customers about their exceptional experiences
+        with us.
       </p>
 
       <div className='mt-24 flex flex-1 justify-evenly items-center max-lg:flex-col gap-14'>
